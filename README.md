@@ -1,1 +1,1 @@
-# Nitro Brain Labs
+- 👉 Try Beta Now: https://labs.nitrobrain.dev
