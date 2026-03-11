@@ -1,1 +1,1 @@
-- 👉 Try Beta Now: https://labs.nitrobrain.dev
+- 👉 Try Beta Now: [https://labs.nitrobrain.dev](https://labs.nitrobrain.dev)
